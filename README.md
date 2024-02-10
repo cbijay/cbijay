@@ -4,13 +4,12 @@ Hi 👋 My name is Bijay Chaudhary
 Software Developer
 ------------------
 
-9 years of experience as a Software Developer. Expertise includes JavaScript mostly on frontend library like React and React Native. Skills include JavaScript, PHP, Laravel, Node, Dart, Flutter etc. Developed websites and application ranging from CMS, POS, Quiz to Vehicle Automation System. I mostly focus on solving problems with software that i am working or trying to build.
+10+ years of experience as a Software Developer. Expertise includes JavaScript mostly on frontend library like React and React Native. Skills include JavaScript, PHP, Laravel, Node, Dart, Flutter etc. Developed websites and application ranging from CMS, POS, Quiz to Vehicle Automation System. I mostly focus on solving problems with software that i am working or trying to build.
 
 * 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [cbijay.brt@gmail.com](mailto:cbijay.brt@gmail.com)
-* 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on React and flutter projects
-* ⚡  Recently worked as a Senior Software Engineer
+* 🤝  I'm open to collaborating on JavaScript, React, React Native, Nodejs, Typescript and flutter projects
+* ⚡  Working as a Senior Software Engineer
 
 <a href="https://www.github.com/coderbijay" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/coderbijay?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
